@@ -160,6 +160,13 @@ Response
 ![Screenshot of TicketBoss UI](https://github.com/vik802207/powerplay/blob/main/img/Screenshot%20(878).png?raw=true)
 ![Screenshot of TicketBoss UI](https://github.com/vik802207/powerplay/blob/main/img/Screenshot%20(879).png?raw=true)
 
+## 👨‍💻 Made By
+``` bash
+Vikash Gupta
+🎓 7th Semester, IIIT Nagpur
+📧 vikashgupta802207@gmail.com
+```
+
 
 
 
