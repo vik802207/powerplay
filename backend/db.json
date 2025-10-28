@@ -1,0 +1,35 @@
+{
+  "event": {
+    "eventId": "node-meetup-2025",
+    "name": "Node.js Meet-up",
+    "totalSeats": 500,
+    "availableSeats": 493,
+    "version": 3
+  },
+  "reservations": {
+    "83c97aad-fa1a-4a67-8380-a99928aa4d3b": {
+      "reservationId": "83c97aad-fa1a-4a67-8380-a99928aa4d3b",
+      "partnerId": "abc-corp",
+      "seats": 3,
+      "status": "confirmed",
+      "ts": "2025-10-28T13:43:53.852Z",
+      "eventVersionAtReservation": 1
+    },
+    "a3062465-5969-4123-8faf-960c31284544": {
+      "reservationId": "a3062465-5969-4123-8faf-960c31284544",
+      "partnerId": "abc-cop",
+      "seats": 2,
+      "status": "confirmed",
+      "ts": "2025-10-28T13:58:14.239Z",
+      "eventVersionAtReservation": 2
+    },
+    "01706161-6dec-4d03-a291-680a7e3c79fa": {
+      "reservationId": "01706161-6dec-4d03-a291-680a7e3c79fa",
+      "partnerId": "abc-cortp",
+      "seats": 2,
+      "status": "confirmed",
+      "ts": "2025-10-28T14:05:32.193Z",
+      "eventVersionAtReservation": 3
+    }
+  }
+}
